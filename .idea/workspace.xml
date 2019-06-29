@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="53ee4d11-70e4-4437-987a-f89a2b838782" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/acme/autocert/autocert.go" beforeDir="false" afterPath="$PROJECT_DIR$/acme/autocert/autocert.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/acme/autocert/autocert_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/acme/autocert/autocert_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/acme/autocert/example_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/acme/autocert/example_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/acme/autocert/renewal_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/acme/autocert/renewal_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bcrypt/bcrypt.go" beforeDir="false" afterPath="$PROJECT_DIR$/bcrypt/bcrypt.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blake2s/blake2s.go" beforeDir="false" afterPath="$PROJECT_DIR$/blake2s/blake2s.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blowfish/cipher.go" beforeDir="false" afterPath="$PROJECT_DIR$/blowfish/cipher.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bn256/bn256.go" beforeDir="false" afterPath="$PROJECT_DIR$/bn256/bn256.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cast5/cast5.go" beforeDir="false" afterPath="$PROJECT_DIR$/cast5/cast5.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chacha20poly1305/chacha20poly1305.go" beforeDir="false" afterPath="$PROJECT_DIR$/chacha20poly1305/chacha20poly1305.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chacha20poly1305/chacha20poly1305_generic.go" beforeDir="false" afterPath="$PROJECT_DIR$/chacha20poly1305/chacha20poly1305_generic.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cryptobyte/asn1.go" beforeDir="false" afterPath="$PROJECT_DIR$/cryptobyte/asn1.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cryptobyte/asn1/asn1.go" beforeDir="false" afterPath="$PROJECT_DIR$/cryptobyte/asn1/asn1.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cryptobyte/asn1_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/cryptobyte/asn1_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cryptobyte/example_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/cryptobyte/example_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cryptobyte/string.go" beforeDir="false" afterPath="$PROJECT_DIR$/cryptobyte/string.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/curve25519/doc.go" beforeDir="false" afterPath="$PROJECT_DIR$/curve25519/doc.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ed25519/ed25519.go" beforeDir="false" afterPath="$PROJECT_DIR$/ed25519/ed25519.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ed25519/ed25519_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/ed25519/ed25519_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hkdf/example_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/hkdf/example_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hkdf/hkdf.go" beforeDir="false" afterPath="$PROJECT_DIR$/hkdf/hkdf.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/md4/example_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/md4/example_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/md4/md4.go" beforeDir="false" afterPath="$PROJECT_DIR$/md4/md4.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nacl/auth/example_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/nacl/auth/example_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nacl/box/box.go" beforeDir="false" afterPath="$PROJECT_DIR$/nacl/box/box.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nacl/box/box_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/nacl/box/box_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nacl/box/example_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/nacl/box/example_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nacl/secretbox/example_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/nacl/secretbox/example_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nacl/secretbox/secretbox.go" beforeDir="false" afterPath="$PROJECT_DIR$/nacl/secretbox/secretbox.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocsp/ocsp.go" beforeDir="false" afterPath="$PROJECT_DIR$/ocsp/ocsp.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openpgp/armor/armor.go" beforeDir="false" afterPath="$PROJECT_DIR$/openpgp/armor/armor.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openpgp/clearsign/clearsign.go" beforeDir="false" afterPath="$PROJECT_DIR$/openpgp/clearsign/clearsign.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openpgp/clearsign/clearsign_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/openpgp/clearsign/clearsign_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openpgp/elgamal/elgamal.go" beforeDir="false" afterPath="$PROJECT_DIR$/openpgp/elgamal/elgamal.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openpgp/errors/errors.go" beforeDir="false" afterPath="$PROJECT_DIR$/openpgp/errors/errors.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openpgp/keys.go" beforeDir="false" afterPath="$PROJECT_DIR$/openpgp/keys.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openpgp/keys_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/openpgp/keys_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openpgp/packet/compressed.go" beforeDir="false" afterPath="$PROJECT_DIR$/openpgp/packet/compressed.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openpgp/packet/encrypted_key.go" beforeDir="false" afterPath="$PROJECT_DIR$/openpgp/packet/encrypted_key.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openpgp/packet/one_pass_signature.go" beforeDir="false" afterPath="$PROJECT_DIR$/openpgp/packet/one_pass_signature.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openpgp/packet/opaque.go" beforeDir="false" afterPath="$PROJECT_DIR$/openpgp/packet/opaque.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openpgp/packet/packet.go" beforeDir="false" afterPath="$PROJECT_DIR$/openpgp/packet/packet.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openpgp/packet/packet_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/openpgp/packet/packet_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openpgp/packet/private_key.go" beforeDir="false" afterPath="$PROJECT_DIR$/openpgp/packet/private_key.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openpgp/packet/public_key.go" beforeDir="false" afterPath="$PROJECT_DIR$/openpgp/packet/public_key.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openpgp/packet/public_key_v3.go" beforeDir="false" afterPath="$PROJECT_DIR$/openpgp/packet/public_key_v3.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openpgp/packet/reader.go" beforeDir="false" afterPath="$PROJECT_DIR$/openpgp/packet/reader.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openpgp/packet/signature.go" beforeDir="false" afterPath="$PROJECT_DIR$/openpgp/packet/signature.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openpgp/packet/signature_v3.go" beforeDir="false" afterPath="$PROJECT_DIR$/openpgp/packet/signature_v3.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openpgp/packet/signature_v3_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/openpgp/packet/signature_v3_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openpgp/packet/symmetric_key_encrypted.go" beforeDir="false" afterPath="$PROJECT_DIR$/openpgp/packet/symmetric_key_encrypted.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openpgp/packet/symmetrically_encrypted.go" beforeDir="false" afterPath="$PROJECT_DIR$/openpgp/packet/symmetrically_encrypted.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openpgp/packet/symmetrically_encrypted_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/openpgp/packet/symmetrically_encrypted_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openpgp/read.go" beforeDir="false" afterPath="$PROJECT_DIR$/openpgp/read.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openpgp/read_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/openpgp/read_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openpgp/s2k/s2k.go" beforeDir="false" afterPath="$PROJECT_DIR$/openpgp/s2k/s2k.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openpgp/s2k/s2k_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/openpgp/s2k/s2k_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openpgp/write.go" beforeDir="false" afterPath="$PROJECT_DIR$/openpgp/write.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openpgp/write_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/openpgp/write_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/otr/otr.go" beforeDir="false" afterPath="$PROJECT_DIR$/otr/otr.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pbkdf2/pbkdf2.go" beforeDir="false" afterPath="$PROJECT_DIR$/pbkdf2/pbkdf2.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkcs12/crypto.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkcs12/crypto.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poly1305/poly1305.go" beforeDir="false" afterPath="$PROJECT_DIR$/poly1305/poly1305.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ripemd160/ripemd160.go" beforeDir="false" afterPath="$PROJECT_DIR$/ripemd160/ripemd160.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/salsa20/salsa/hsalsa20.go" beforeDir="false" afterPath="$PROJECT_DIR$/salsa20/salsa/hsalsa20.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/salsa20/salsa20.go" beforeDir="false" afterPath="$PROJECT_DIR$/salsa20/salsa20.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrypt/example_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/scrypt/example_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrypt/scrypt.go" beforeDir="false" afterPath="$PROJECT_DIR$/scrypt/scrypt.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sha3/doc.go" beforeDir="false" afterPath="$PROJECT_DIR$/sha3/doc.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssh/agent/client.go" beforeDir="false" afterPath="$PROJECT_DIR$/ssh/agent/client.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssh/agent/client_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/ssh/agent/client_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssh/agent/example_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/ssh/agent/example_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssh/agent/forward.go" beforeDir="false" afterPath="$PROJECT_DIR$/ssh/agent/forward.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssh/agent/keyring.go" beforeDir="false" afterPath="$PROJECT_DIR$/ssh/agent/keyring.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssh/agent/server.go" beforeDir="false" afterPath="$PROJECT_DIR$/ssh/agent/server.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssh/agent/server_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/ssh/agent/server_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssh/agent/testdata_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/ssh/agent/testdata_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssh/doc.go" beforeDir="false" afterPath="$PROJECT_DIR$/ssh/doc.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssh/example_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/ssh/example_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssh/kex.go" beforeDir="false" afterPath="$PROJECT_DIR$/ssh/kex.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssh/keys.go" beforeDir="false" afterPath="$PROJECT_DIR$/ssh/keys.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssh/keys_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/ssh/keys_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssh/knownhosts/knownhosts.go" beforeDir="false" afterPath="$PROJECT_DIR$/ssh/knownhosts/knownhosts.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssh/knownhosts/knownhosts_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/ssh/knownhosts/knownhosts_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssh/session_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/ssh/session_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssh/terminal/util.go" beforeDir="false" afterPath="$PROJECT_DIR$/ssh/terminal/util.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssh/terminal/util_solaris.go" beforeDir="false" afterPath="$PROJECT_DIR$/ssh/terminal/util_solaris.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssh/test/agent_unix_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/ssh/test/agent_unix_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssh/test/cert_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/ssh/test/cert_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssh/test/doc.go" beforeDir="false" afterPath="$PROJECT_DIR$/ssh/test/doc.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssh/test/session_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/ssh/test/session_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssh/test/test_unix_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/ssh/test/test_unix_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssh/test/testdata_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/ssh/test/testdata_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssh/testdata/doc.go" beforeDir="false" afterPath="$PROJECT_DIR$/ssh/testdata/doc.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssh/testdata_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/ssh/testdata_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/twofish/twofish.go" beforeDir="false" afterPath="$PROJECT_DIR$/twofish/twofish.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xtea/cipher.go" beforeDir="false" afterPath="$PROJECT_DIR$/xtea/cipher.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xts/xts.go" beforeDir="false" afterPath="$PROJECT_DIR$/xts/xts.go" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>golang.org/x/crypto</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>github.com/happyEgg/crypto</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/crypto.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/go.imports.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="268" />
+    <option name="y" value="42" />
+    <option name="width" value="2409" />
+    <option name="height" value="1248" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="268" y="42" width="2409" height="1248" extended-state="0" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24989393" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="Copyright.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
